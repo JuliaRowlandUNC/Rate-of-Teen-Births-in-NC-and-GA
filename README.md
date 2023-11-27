@@ -10,7 +10,8 @@
 ## Why Does This Data Matter?
 
 *Studying the rates of teen births can lead to a better understanding of how it impacts economic and social factors. The CDC has found that pregnancy and childbirth remain to significantly contribute to the dropouts of high school girls. In order to analyze the causes of teen births in greater depth, comparing the rates in different states could provide useful information about potential factors increasing or decreasing these rates.*
-  - https://www.cdc.gov/teenpregnancy/about/index.htm#:~:text=Teen%20pregnancy%20and%20childbearing%20are,school%20dropout%20rates%20among%20grls.
+**CDC Source:**
+*  - https://www.cdc.gov/teenpregnancy/about/index.htm#:~:text=Teen%20pregnancy%20and%20childbearing%20are,school%20dropout%20rates%20among%20grls.*
 
 ## How Was The Data Collected?
 *Navigate to the **Data** folder to find the original dataset used to extract subsets -- it will be titled **__**. The aforementioned subsets will be in the same folder titled **data_subsets**. By using Python, I selected specific data from the County Public Health Dataset that compared teen birth rates in North Carolina with the rates in Georgia. By opening the Data Compilation Notebook attatched to this repository, you will be able to recreate the steps that I used to attain the data.*
