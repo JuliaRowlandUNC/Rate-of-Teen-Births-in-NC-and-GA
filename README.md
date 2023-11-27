@@ -1,4 +1,4 @@
-# Rate of Teen Births in NC VS GA
+# Comparing the Rate of Teen Births in North Carolina With Georgia
 *This repository will document the steps necessary to compile a data set comparing the rate of teen births in North Carolina with the rate in Georgia. Attatched you will find a Data Compilation Notebook, the County Public Health Dataset from 2014-2015, subsets culled from the data, and graphs visualizing the data.*
 
 ## Why Write This?
