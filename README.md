@@ -1,8 +1,8 @@
 # Rate of Teen Births in NC VS GA
 
-This repository will document the steps necessary to compile a data set comparing the rate of teen births in North Carolina with the rate in Georgia.
+This repository will document the steps necessary to compile a data set comparing the rate of teen births in North Carolina with the rate in Georgia. Attatched you will find a Data Compilation Notebook, the County Public Health Dataset from 2014-2015, subsets culled from the data, and graphs visualizing the data.
 
-Why Did I Write This?
+Why Write This?
 
 Purposes of writing this repository: Assignment for English 105 course
 
@@ -17,4 +17,8 @@ Studying the rates of teen births can lead to a better understanding of how it i
 
 How Was The Data Collected?
 
-Navigate to the **Data** folder to find the original dataset used to extract subsets -- it will be titled **__**. The afformentioned subsets will be in the same folder titled **data_subsets**. By using Python, I selected specific data from the National Public Health Dataset that compared teen birth rates in North Carolina with the rates in Georgia. By opening the Data Compilation Notebook attatched to this repository, you will be able to recreate the steps that I used to attain the data.
+Navigate to the **Data** folder to find the original dataset used to extract subsets -- it will be titled **__**. The afformentioned subsets will be in the same folder titled **data_subsets**. By using Python, I selected specific data from the County Public Health Dataset that compared teen birth rates in North Carolina with the rates in Georgia. By opening the Data Compilation Notebook attatched to this repository, you will be able to recreate the steps that I used to attain the data.
+
+How To Get Started:
+
+Is your interest peaked? Perfect, in order to get started recreating my data subsets, download the County Public Health Data cvs located in the **Data** folder. Once it's downloaded, feel free to open the **data_sets** file and explore the datasets used to gather this data, or jump straight to the Data Compilation Notebook in order to follow the instructions and recreate the sets for yourself. Enjoy!
