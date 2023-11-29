@@ -3,10 +3,10 @@ This repository will document the steps necessary to compile a dataset comparing
   - *https://github.com/JuliaRowlandUNC/Rate-of-Teen-Births-in-NC-and-GA/tree/main*
 
 ## Why Write This?
-The following repository was an assignment for an English 105 course. Completing it not only generates knowledge about coding through Python, it provides a platform to practice documentation of the coding process by writing comprehensible intructions for reproducing the process of creating subsets of data and creating a repository to include said data as well as documents like this README file.
+The following repository was an assignment for an English 105 course. Completing it not only generates knowledge about coding through Python, it provides a platform to practice documentation of the coding process by writing comprehensible instructions for reproducing the process of creating subsets of data and creating a repository to include said data as well as documents like this README file.
 
 ## Should You Read On?
-This repository should primarily be explored by those interested in studying correlations between an individuals actions and the impact of said actions on society, the economy, etc. Social and data scientists are most likely to study these datasets, but any other interested parties are welcome to read on.
+This repository should primarily be explored by those interested in studying correlations between an individual's actions and the impact of said actions on society, the economy, etc. Social and data scientists are most likely to study these datasets, but any other interested parties are welcome to read on.
 
 ## Why Does This Data Matter?
 
