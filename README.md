@@ -19,7 +19,7 @@ Studying the rates of teen births can lead to a better understanding of how they
 ## How Was The Data Collected?
 Navigate to the **Data** folder to find the original dataset that was used to create the subsets used in this repository -- it will be titled **CountyHealthData_2014-2015.csv**. The aforementioned subsets will be in the same folder titled **Data_Subset**. By using Python, I selected specific data from the County Public Health Dataset that compared teen birth rates in North Carolina with the rates in Georgia. By opening the Data Compilation Notebook attatched to this repository, you will be able to recreate the steps that I used to attain the data.
 
-## How To Get Started:
+## How To Get Started?
 Is your interest peaked? Perfect, in order to get started recreating my data subsets, download the County Public Health Data .cvs file located in the **Data** folder. Once it's downloaded, feel free to open the **Data_Subset** file and explore the datasets used to gather this data, or jump straight to the Data Compilation Notebook in order to follow the instructions and recreate the sets for yourself. *Enjoy!*
 
 ## Having Technical Difficulties?
